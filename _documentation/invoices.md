@@ -31,6 +31,9 @@ All examples represent the date `2019-07-09` (2019, July 9th):
 - `{cd}`        - counter for invoices this day, starting at 1
 - `{Y}`         -  full numeric representation of a year (4 digits). Example: `2019`
 - `{y}`         - two digit representation of a year. Example: `19`
+- `{FY}`        - full numeric representation of set finacial year (4 digits). Example: `2023`
+- `{fy}`        - two digit representation of set finacial year. Example: `23`
+- `{fiscal}`    - a fiscal (financial) year format representation of set finacial year. Example: `2023-24`
 - `{M}`         - numeric representation of a month, with leading zeros. Example: `07`
 - `{m}`         - numeric representation of a month, without leading zeros. Example: `7`
 - `{D}`         - day of the month, 2 digits with leading zeros. Example: `09`
